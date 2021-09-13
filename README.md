@@ -1,9 +1,3 @@
-# infinitnt
-
-Version: 1.16.1
-
-ModLoader: Fabric(with Fabric API), Optifine
-
 # Information
 
 Infinite TNT mod gives flint and steel to your first hotbar and a tnt to your second hotbar when you create a new world.
