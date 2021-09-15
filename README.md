@@ -8,4 +8,4 @@ You can use the mod with any mod loader, but if you are using it with fabric, yo
 
 I made this mod for fun and I will continue to improve it, you can contact me on discord for bug report or anything you want added.
 
-Kryp#2696
+Kryp#8329
