@@ -1,5 +1,7 @@
 # Information
 
+Fabric API required.
+
 Infinite TNT mod gives flint and steel to your first hotbar and a tnt to your second hotbar when you create a new world.
 
 This TNT regenerates every time you put it and detonate it and the main feature of this TNT is that it does not harm you, it also damages blocks underwater and explodes instantly when right clicked with flint and steel.
